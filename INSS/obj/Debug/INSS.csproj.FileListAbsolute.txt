@@ -1,0 +1,5 @@
+C:\Workspace\Problemas\INSS\bin\Debug\INSS.dll
+C:\Workspace\Problemas\INSS\bin\Debug\INSS.pdb
+C:\Workspace\Problemas\INSS\obj\Debug\INSS.csproj.CoreCompileInputs.cache
+C:\Workspace\Problemas\INSS\obj\Debug\INSS.dll
+C:\Workspace\Problemas\INSS\obj\Debug\INSS.pdb
